@@ -1,7 +1,6 @@
 """Data models for the application."""
 
 from flask_sqlalchemy import SQLAlchemy
-from app import app
 
 db = SQLAlchemy(app)
 

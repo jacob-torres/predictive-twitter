@@ -14,7 +14,7 @@ def index():
 
 @app.route('/predict')
 def predict():
-
+    return
 
 
 if __name__ == '__main__':
